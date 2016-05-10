@@ -1,0 +1,8 @@
+Version 2.2.2
+Minor fixes
+
+Version 2.2.0
+Updated to match latest core version
+
+Version 1.0.0
+Theme Release!
