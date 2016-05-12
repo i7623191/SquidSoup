@@ -30,7 +30,7 @@ Template Name: Homepage
 							</div>
 						
 						</header>
-						
+						Test insert of text in page-homepage.php
 						<section class="row post_content">
 						
 							<div class="col-sm-8">
