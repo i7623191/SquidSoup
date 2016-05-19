@@ -1,0 +1,31 @@
+.vidjac_label {
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: middle;
+    width: 220px;
+}
+#vidjac_descr {
+    width: 80%;
+}
+#vidjac_video {
+    width: 80%;
+}
+.formfield * {
+    vertical-align: middle;
+}
+.vidjac_header_wrap {
+    margin-top: -15px;
+}
+
+.vidjac_header_wrap #icon {
+    float: left;
+    height: 34px;
+    margin: 7px 8px 0 0;
+    width: 36px;
+}
+.vidjac_header_wrap h2 {
+    font-size: 23px;
+    line-height: 29px;
+    padding: 9px 15px 4px 0;
+    font-weight: normal;
+}
