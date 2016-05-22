@@ -1,7 +1,9 @@
 <div class="page-header">
+    <div style="text-align: center;">
 	<h1 class="entry-title" itemprop="name">
 		<?php echo apply_filters('kadence_page_title', kadence_title() ); ?>
 	</h1>
+    </div>
    	<?php global $post; 
   	if(is_page()) {
   		$bsub = get_post_meta( $post->ID, '_kad_subtitle', true );
